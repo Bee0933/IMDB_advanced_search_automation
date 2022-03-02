@@ -21,6 +21,7 @@ ___
 ##  **✔️ Tech stack**
 ___
     * Python 
+    * Anaconda
     * Vscode 
     * Selenium
     * git 
