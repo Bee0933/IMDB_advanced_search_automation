@@ -21,9 +21,10 @@ ___
 ##  **✔️ Tech stack**
 ___
     * Python 
-    * Pandas
+    * Vscode 
     * Selenium
     * git 
+    
 
 ## **✔️ Project Organization 📌**
 ___
